@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in web development and technical writing
-- 🌱 I’m currently learning blockchain development
+- 🌱 I’m currently learning blockchain development and web3
 
 <!---
 incandenzadev/incandenzadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
